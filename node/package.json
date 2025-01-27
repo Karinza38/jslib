@@ -35,6 +35,6 @@
     "https-proxy-agent": "5.0.0",
     "inquirer": "8.0.0",
     "lowdb": "1.0.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.7.0"
   }
 }
